@@ -1,1 +1,5 @@
-com\legolas\test_jee\NewSessionBean.class
+com\legolas\test_jee\modelo\Vehiculo.class
+com\legolas\test_jee\modelo\Vehiculo_.class
+com\legolas\test_jee\servicio\VehiculoServicio.class
+com\legolas\test_jee\modelo\facade\AbstractFacade.class
+com\legolas\test_jee\modelo\facade\VehiculoFacade.class
